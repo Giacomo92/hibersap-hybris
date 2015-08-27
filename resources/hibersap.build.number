@@ -1,0 +1,8 @@
+#Ant properties
+#Mon Jun 15 14:58:17 CEST 2015
+builddate=20150615 1458
+description=hibersap
+name=hibersap
+vendor=hybris
+version=5.5.1.2
+version.api=5.5.1
